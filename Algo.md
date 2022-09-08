@@ -8,4 +8,7 @@ Enter the information on the app, or tell the person on the phone what you want
 Give payment information
 Wait for pizza
 Pick up pizza
+Check to make sure order is correct
+If order is correct, proceed
+If order is not correct, inform the driver; repeat steps 9 & 10 and then proceed
 Tip driver
